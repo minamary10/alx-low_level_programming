@@ -1,3 +1,4 @@
+#!/bin/bash
 *include<atdio.h>
 /**
  * main - Entry point
