@@ -1,10 +1,13 @@
-#!/bin/bash
-*include<atdio.h>
+#include <stdio.h>
+
 /**
  * main - Entry point
  *
- * Return: Alwya O (Success)
- */
+ * Description: A C program that prints with put function
+ * 
+ * Return: Alawys 0 (Success)
+*/
+
 int main(void)
 {
         puts("\"Programming is like building a multilingual puzzle");
